@@ -1,0 +1,1 @@
+cmd_/home/minh/Documents/baitap/process/test/b1.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/minh/Documents/baitap/process/test/b1.ko /home/minh/Documents/baitap/process/test/b1.o /home/minh/Documents/baitap/process/test/b1.mod.o;  true
